@@ -1,0 +1,12 @@
+header {
+    display: flex;
+    flex-direction: row;
+}
+
+header > ul {
+    list-style: none;
+}
+
+header > ul > li {
+    text-decoration: none;
+}
